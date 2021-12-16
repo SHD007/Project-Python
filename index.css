@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+}
+
+.webcam-container {
+    text-align: center;
+}
+
+
+.label-container {
+    margin-top: 80px;
+    color: white;
+    text-align: center;
+    font-family: 'Black Han Sans', sans-serif;
+    font-size: 30px;
+}
