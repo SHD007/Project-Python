@@ -14,3 +14,5 @@
 사용기술 :
 Anaconda Jupyter Notebook, Visual Studio Code,
 pandas, numpy, teachable machine, netlify, mobaxterm
+
+완성 : https://youthful-lamport-d1e291.netlify.app
